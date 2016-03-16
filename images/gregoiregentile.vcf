@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//Mac OS X 10.11.3//EN
+N:Gentile;Grégoire;;;
+FN:Grégoire Gentile
+EMAIL;type=INTERNET;type=HOME;type=pref:gregoire.gentile@gmail.com
+item1.TEL;type=pref:+41 78 681 08 88
+item1.X-ABLabel:Numéro Suisse
+item2.TEL:+46 70-481 12 72
+item2.X-ABLabel:Numéro suédois
+item3.TEL:+33 7 83 07 11 57
+item3.X-ABLabel:Numéro français
+UID:21A0F804-7E7C-42B2-BAED-4263E9D29A8A
+X-ABUID:7ADD0FF9-E3BD-4DD5-9F8D-004960029EB9:ABPerson
+END:VCARD
