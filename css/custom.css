@@ -186,7 +186,7 @@ ul.no-bullets > li{
 /* Presentation Page */
 .page-section#presentation {
 	background-position: center;
-    background-image: url(../images/background-pres-small.jpg);
+    background-image: url(../images/background.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-color: rgb(69,68,68);
@@ -432,7 +432,7 @@ ul.no-bullets > li{
 	}
     .page-section#presentation {
         background-attachment: fixed;
-        background-image: url(../images/rocket.jpg);
+        background-image: url(../images/background.jpg);
     }
 }
 @media (max-width: 1024px) {
