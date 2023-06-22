@@ -432,7 +432,7 @@ ul.no-bullets > li{
 	}
     .page-section#presentation {
         background-attachment: fixed;
-        background-image: url(../images/background-pres.jpg);
+        background-image: url(../images/rocket.jpg);
     }
 }
 @media (max-width: 1024px) {
